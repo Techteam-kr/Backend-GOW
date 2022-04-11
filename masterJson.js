@@ -32,7 +32,7 @@ const  data = [
     {
     "id": "3",
     "name": "Rashtriya Vayoshri Yojana (RVY)",
-    "category" :["Pension", "Disability"],
+    "category" :["Pension", "Disability", "BPL"],
     "gender":["All"],
     "disability":["Yes"],
     "age":[60],
@@ -47,7 +47,7 @@ const  data = [
     {
     "id": "4",
     "name": "Monthly Pension scheme for older person",
-    "category" :["Pension"],
+    "category" :["Pension", "BPL"],
     "gender":["All"],
     "disability":["No"],
     "age":[65],
@@ -62,7 +62,7 @@ const  data = [
     {
     "id": "5",
     "name": "Sandhya Suraksha Scheme",
-    "category" :["Pension"],
+    "category" :["Pension", "BPL"],
     "gender":["All"],
     "disability":["No"],
     "age":[65],
@@ -78,7 +78,7 @@ const  data = [
     "id": "6",
     "name": "Manaswini Yojana",
     "category" :["Women"],
-    "gender":["Women"],
+    "gender":["Women", "BPL"],
     "disability":["No"],
     "age":[40],
     "ageLowerLimit": 40, 
@@ -92,7 +92,7 @@ const  data = [
     {
     "id": "7",
     "name": "Physically Handicapped Pension",
-    "category" :["Pension", "Disability"],
+    "category" :["Pension", "Disability", "BPL"],
     "gender":["All"],
     "disability":["Yes"],
     "age":[16],
@@ -107,7 +107,7 @@ const  data = [
     {
     "id": "8",
     "name": "Maitri Scheme",
-    "category" :["Transgender"],
+    "category" :["Transgender", "BPL"],
     "gender":["Transgender"],
     "disability":["No"],
     "age":[25],
@@ -152,7 +152,7 @@ const  data = [
     {
     "id": "11",
     "name": "Ayushman Bharat",
-    "category" :["Health"],
+    "category" :["Health", "BPL"],
     "gender":["All"],
     "disability":["No"],
     "age":["All"],

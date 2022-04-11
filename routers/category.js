@@ -10,12 +10,12 @@ router.get('/', async(req,res) => {
             "Pension",
             "Disability",
             "Transgender",
-            "Women & Children",
+            "Women",
             "Health",
             "Unorganised Labour",
             "Students",
             "Skill Development",
-            "BPL Card Holder",
+            "BPL",
             "Other"
         ]
     }
